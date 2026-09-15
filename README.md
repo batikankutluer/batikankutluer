@@ -25,4 +25,10 @@ Kendi projelerimde Monorepo **Docker Compose** ile **Cloudflare Tunnel** kullana
 - Codex: **Sol** high + **luna** high (20 dolarlik almistim uzgunum pek astra kullanamiyorum)
 - Hiç bilmediğim bir alanla (bknz, motion design) ilgili teknik bilgi eksiğim varsa önce tahminlerimle agenta sora sora teknik bilginin tanımını öğrenip az çok kavrayıp agent'a işi daha net anlatmaya ve referans bilgi vermeye çalışıyorum. Genelde planları iyi agenta yaptırıp implementasyonu hızlı ve çok token maliyeti olmayan agentlara salıyorum.
 
+### Hackathon
+- Bir tane ses modeli ai agent'i hackathonuna gittim.
+- Yaklaşık 8-9 tane de Web3 Hackathonuna katıldım.
+
+- Bunlardan birinde, Arjantin'de birincilik kazandık. [Gurur](https://x.com/ITUblockchain/status/1992952149869986014)
+- Bir diğerinde Paribu Wagmithon'da İkincilik kazandık. ...
 ...
